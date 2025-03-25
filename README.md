@@ -146,6 +146,9 @@ File: `complex_function.py`
           source venv/bin/activate
           flake8 **/*.py
   ```
+ ## Screenshots
+    Screenshot 1: Tool ss and the simple frontend I created to upload python files. This was running on localhost:3000.
+    Screenshot 2: To confirm that I did all the coding on VS Code Editor.
 
 ## Conclusion
 
